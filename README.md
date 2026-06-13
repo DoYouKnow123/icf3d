@@ -1,3 +1,5 @@
+animation3.gif - spherical.c generated (created with NX=NY=NZ=192=96*2)
+
 animation2.gif - spherical.c generated
 
 animation.gif - icf3d_3.c generated
