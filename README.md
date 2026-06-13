@@ -1,3 +1,5 @@
+icf3d.gif - to see an example of the model itself 'blowing up' due to too small boundary condition bounding box.
+
 animation3.gif - spherical.c generated (created with NX=NY=NZ=192=96*2)
 
 animation2.gif - spherical.c generated
