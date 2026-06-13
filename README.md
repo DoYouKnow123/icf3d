@@ -1,3 +1,8 @@
+animation2.gif - spherical.c generated
+animation.gif - icf3d_2.c generated
+ignite_E.pdf  - spherical2.c generated
+icf.pdf - icf3d_2.c generated
+
 3d inertial confinement fusion toy model, to demonstrate the principle of inertial confinement of fusion for keeping the
 reaction in a specific volume while ignition happens.
 
