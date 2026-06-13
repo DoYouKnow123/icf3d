@@ -11,6 +11,7 @@
 
   Compile:
     gcc -O3 -std=c11 spherical_icf_vti.c -lm -fopenmp -o sicf
+    clang -O3 -std=c11 spherical.c -lm -I/opt/homebrew/opt/libomp/include -L/opt/homebrew/opt/libomp/lib -o spherical
 */
 
 #include <stdio.h>
